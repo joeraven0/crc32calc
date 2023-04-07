@@ -1,7 +1,9 @@
-# crc32calc
-Calculate CRC32 checksum on Linux or Windows
+# crc32calc for Windows & Linux
 
-Run either crc32calc.sh, crc32calc.py (Windows filesystem only) or crc32calc.bat followed by the filename to calculate checksum on.
+Version 0.1
+2023-04-07
+
+Calculate CRC32 checksum on Linux or Windows
 
 ## Usage
 
