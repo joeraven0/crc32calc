@@ -5,9 +5,9 @@ Run either crc32calc.sh, crc32calc.py (Windows filesystem only) or crc32calc.bat
 
 Output
 
-''
+´´
 Hello
-''
+´´
 
 ##Windows
 
