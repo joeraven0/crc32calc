@@ -5,19 +5,24 @@ Run either crc32calc.sh, crc32calc.py (Windows filesystem only) or crc32calc.bat
 
 Output
 
-´´
+```
 Hello
-´´
+```
 
 ##Windows
 
-''' python crc32calc.py myfile.txt '''
+```
+python crc32calc.py myfile.txt 
+```
 
 OR
 
-''' crc32calc.bat myfile.txt '''
+```
+crc32calc.bat myfile.txt
+```
 
 ##Linux
 
-''' chmod +x crc32calc.sh '''
-''' ./crc32calc.sh myfile.txt '''
+``` chmod +x crc32calc.sh
+./crc32calc.sh myfile.txt
+```
