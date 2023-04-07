@@ -9,7 +9,7 @@ Output
 Hello
 ```
 
-##Windows
+## Windows
 
 ```
 python crc32calc.py myfile.txt 
@@ -21,7 +21,7 @@ OR
 crc32calc.bat myfile.txt
 ```
 
-##Linux
+## Linux
 
 ``` chmod +x crc32calc.sh
 ./crc32calc.sh myfile.txt
